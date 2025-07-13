@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743223838 source:e:\clg\sem4\os\project\cpu_scheduling_algo\main.cpp
+	<bits/stdc++.h>
+	"parser.h"
+
+1743186946 e:\clg\sem4\os\project\cpu_scheduling_algo\parser.h
+	<bits/stdc++.h>
+
